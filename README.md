@@ -1,14 +1,16 @@
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+               I'm a self-taught passionate  container development  from  china 
 
-**About me**
+About me
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+💼 Engineer at internet
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 31K stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+💬 Ask me about anything here  [here](https://github.com/dockercore/K8s-tools/issues)
+
+
 
 
 <a href="https://github.com/dockercore/github-readme-stats">
