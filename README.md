@@ -13,7 +13,7 @@ About me
 
 ### GitHub Stats
 
-![zu1k's github stats](https://github-readme-stats.vercel.app/api?username=zu1k&count_private=true&show_icons=true)
+![dockercore's github stats](https://github-readme-stats.vercel.app/api?username=zu1k&count_private=true&show_icons=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=zu1k)
 
