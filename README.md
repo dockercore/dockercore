@@ -32,3 +32,8 @@ About me
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code>
+### GitHub Stats
+
+![zu1k's github stats](https://github-readme-stats.vercel.app/api?username=zu1k&count_private=true&show_icons=true)
+
+![](https://github-profile-trophy.vercel.app/?username=zu1k)
