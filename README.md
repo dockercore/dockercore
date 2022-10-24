@@ -6,7 +6,7 @@ About me
 💼 Engineer at internet
 
 
-❤️ I love writing TypeScript, and building fun experiments on type-level
+❤️ I love writing shell  golang js, and building fun experiments on type-level
 
 💬 Ask me about anything here  [here](https://github.com/dockercore/K8s-tools/issues)
 
