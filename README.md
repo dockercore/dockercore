@@ -1,10 +1,8 @@
    # I am dockercore, a Software SRE container Engineer, I love open source.
-   # I from  china .
+   ## I from  china .
 
 
 About me
-
-💼 Engineer at internet
 
 
 ❤️ I love writing shell  golang js, and building fun experiments on type-level
