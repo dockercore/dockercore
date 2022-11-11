@@ -1,4 +1,6 @@
-   I'm a SRE container development   from  china 
+    I am dockercore, a Software Engineer SRE container, I love open source.
+
+    I from  china .
 
 
 About me
