@@ -1,5 +1,5 @@
-   ## I am dockercore, a Software SRE container Engineer, I love open source.
-   ## I from  china .
+   ## I am dockercore, a Software SRE container Engineer。
+   ## I from  china ，I love open source.
 
 About me
 
