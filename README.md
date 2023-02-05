@@ -4,7 +4,7 @@
 About me
 
 
-❤️ I love writing shell  golang js, and building fun experiments on type-level
+❤️ I love writing shell  golang , and building fun experiments on type-level
 
 
 🚀 I like to look at history because I can understand today much better...
