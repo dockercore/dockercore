@@ -60,15 +60,13 @@
 
 ### 🏆 Career Highlights
 
-| 🎯 亮点 | 📝 详情 |
-|---------|---------|
-| 高可用架构 | 支撑日 PV 4 亿、注册用户 6 亿的业务，保障全年 5 个 9 可用性 |
-| 自动化发布 | 独立搭建 ArgoCD + GitLab-CI + K8s 自动化发布系统，部署效率提升 50% |
-| 云成本优化 | 多云资源配置调优与成本控制，运营成本降低 15% |
-| 跨云网络 | 解决阿里云与腾讯云跨地区网络通信及跨账号资源共享 |
-| DDoS 防御 | 主导高防从三线迁移到八线，大幅提升抗攻击能力 |
-| AI 平台 | 部署 n8n、FastGPT、Dify 生产环境，实现企业办公平台 API 集成 |
-| 合规认证 | 多次协助通过等级保护三级、ISO 五大体系、CMMI 体系认证 |
+- 🏗️ 支撑日 PV 4 亿、注册用户 6 亿的业务，保障全年 5 个 9 可用性
+- ⚡ 独立搭建 ArgoCD + GitLab-CI + K8s 自动化发布系统，部署效率提升 50%
+- 💰 多云资源配置调优与成本控制，运营成本降低 15%
+- 🌐 解决阿里云与腾讯云跨地区网络通信及跨账号资源共享
+- 🛡️ 主导高防从三线迁移到八线，大幅提升抗攻击能力
+- 🤖 部署 n8n、FastGPT、Dify 生产环境，实现企业办公平台 API 集成
+- 📋 多次协助通过等级保护三级、ISO 五大体系、CMMI 体系认证
 
 ---
 
@@ -119,12 +117,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dockercore&show_icons=true&theme=onedark&count_private=true" alt="stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dockercore&theme=onedark" alt="streak" height="170" />
 </p>
-
----
-
-### 🎓 Education
-
-- 📖 南开大学 · 计算机及应用 · 本科
 
 ---
 
